@@ -1,4 +1,4 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
-110632  -
+110632  still has bad timerange
 110637  -

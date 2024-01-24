@@ -15,7 +15,7 @@ on['NGC4447'] = [110632, 110637 ]
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1['NGC4447']   = "dv=50 dw=100 pix_list=0,2 b_order=3"
+pars1['NGC4447']   = "dv=100 dw=150 pix_list=0,2 b_order=3 map_coord_use=0 bank=0"
 
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
