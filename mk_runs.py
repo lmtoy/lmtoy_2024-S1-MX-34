@@ -23,4 +23,4 @@ pars2 = {}
 pars2['NGC4447']   = "srdp=1 admit=0"
 
 if __name__ == '__main__':    
-    runs.mk_runs(project, on, pars1, pars2, sys.argv)
+    runs.mk_runs(project, on, pars1, pars2, None, sys.argv)
