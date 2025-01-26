@@ -10,8 +10,10 @@ project="2024-S1-MX-34"
 
 #        obsnums per source (make it negative if not added to the final combination)
 on = {}
-on['NGC4447'] = [110632, 110637 ]
-
+on['NGC4447'] = [110632, 110637, 
+                 125295, 125297, 125301, 125303,      # 21-jan-2025
+                 125362, 125364, 125366,
+                 ]
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}

@@ -9,3 +9,5 @@ Noise is about 250-300mK in 15 mins. They said they needed ~8 hours to see somet
 which suggests 40-50 mK.
 
 Tsys in one pol is 140K, the other 180K, a lot higher.  Same for the other obs,  160k vs. 190k.
+
+new data jan 2025 (125295, 125297, 125301, 125303, ...)
