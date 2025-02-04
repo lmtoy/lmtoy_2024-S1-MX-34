@@ -1,4 +1,20 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
-110632  still has bad timerange
-110637  -
+
+110632  wf_bad      # map_coord_use=0
+110637  wf_bad      # map_coord_use=0
+125295  .
+125297  .
+125301  .
+125303  wf_bad
+125362  .
+125364  .
+125366  .
+125647  wf_bad
+125649  wf_bad
+125747  wf_bad
+125749  wf_bad
+125769  wf_bad
+125771  wf_bad
+125773  wf_bad
+125775  wf_bad
