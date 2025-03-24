@@ -25,5 +25,8 @@ pars1['NGC4447']   = "vlsr=230 dv=30 dw=100 pix_list=0,1,2,3 b_order=3"
 pars2 = {}
 pars2['NGC4447']   = "pix_list=0,2 bank=0"
 
+pars3 = {}
+pars3['NGC4447']   = "pix_list=1,3 bank=1"
+
 if __name__ == '__main__':    
-    runs.mk_runs(project, on, pars1, pars2, None, sys.argv)
+    runs.mk_runs(project, on, pars1, pars2, pars3, sys.argv)
