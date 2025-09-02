@@ -1,8 +1,14 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
-#123456    QAFAIL     # ...
 
-110632  wf_bad      # map_coord_use=0
-110637  ? wf_bad      # map_coord_use=0
+
+# unclear if pipeline handles this correctly
+
+110632__0 wf_bad         # map_coord_use=0
+110637__0  ? wf_bad      # map_coord_use=0
+110632__1                # map_coord_use=0
+110637__1                # map_coord_use=0
+
+
 125295  .
 125297  .
 125301  .
