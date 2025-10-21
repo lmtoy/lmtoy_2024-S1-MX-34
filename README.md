@@ -11,3 +11,6 @@ which suggests 40-50 mK.
 Tsys in one pol is 140K, the other 180K, a lot higher.  Same for the other obs,  160k vs. 190k.
 
 new data jan 2025 (125295, 125297, 125301, 125303, ...)
+
+
+Some data have bad time-ranges, that needs to be removed using sample=   !!!    or rmscut=
